@@ -1,0 +1,15 @@
+
+.container{
+ border: dotted 4px  rgb(128, 0, 111);
+ background: linear-gradient(skyblue , rgb(128, 0, 111));
+
+}
+.inner-container{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 5%;
+    text-align: center;
+    border-radius: 5px;
+   
+
+}
